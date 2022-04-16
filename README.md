@@ -18,13 +18,7 @@ The quest for finding life and habitat in the universe other than earth has been
   <td><img src="/Images/Time_Pos.JPG" width="350" height="200"></td>
   <td><img src="/Images/Time_Neg.JPG" width="350" height="200"></td>
 </tr>
-  
-<tr>
-  <th scope="row">Recurrence Plot</th>
-  <td><img src="/Images/Rec_Pos.JPG" width="350" height="350"></td>
-  <td><img src="/Images/Rec_Neg.JPG" width="350" height="350"></td>
-</tr>
-  
+   
 <tr>
   <th scope="row">FFT</th>
   <td><img src="/Images/FFT_Pos.JPG" width="350" height="200"></td>
