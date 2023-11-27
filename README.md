@@ -1,5 +1,5 @@
 # Exo-Planet Classification<br>
-<h3>The aim of this project is to Detect Exoplanets from light curves of Kepler Mission using FFT and Recurrence Plots and analyze to what extent they affect the accuracy of Exo-Planets Classification</h3>  
+<h3>The aim of this project is to Detect Exoplanets from light curves of Kepler Mission using FFT and analyze to what extent they affect the accuracy of Exo-Planets Classification</h3>  
 <br>
 The quest for finding life and habitat in the universe other than earth has been going on since long. To uncover it, National Aeronautics and Space Administration (NASA) has Kepler Mission which captured data of brightness of stars which are called light curves. These are formed when a star transits from one place to another. This star could be an exo-planet and this is decided by checking its brightness. 
 
